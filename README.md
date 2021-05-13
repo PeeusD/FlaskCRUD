@@ -10,7 +10,7 @@
 
 
 
-# Editing Entries:-
+# Updating Entries:-
 ![3](https://user-images.githubusercontent.com/72473589/117162371-54af8280-ade0-11eb-91de-68dad76331d2.jpg)
 
 
