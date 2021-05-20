@@ -24,12 +24,12 @@
 # Instructions need to be followed for creating MYSQL DB:
 - Install MYSQL DB (Lamp, Wamp Or Xampp).
 - Create your database using python terminal type these command to create your DB :
-(You can mange your DB using db mgnt software like Xamp, Wamp)
+(You can manage your DB using db mgnt software like Xamp, Wamp)
  ```python
  
- >>> python
- >>> from <your App name> import db
- >>> db.create_all()
+python
+from <YourAppName> import db
+db.create_all()
  
  ```
  
